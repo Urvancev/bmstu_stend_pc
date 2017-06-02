@@ -15,7 +15,6 @@ struct Model_i
     double S_i[3]; // вектор Солнца в ИСК
     double S_cck[3]; // вектор Солнца в ССК
     unsigned short Sn; // Наличие Солнца
-
     unsigned short o_P[8]; // Признаки включения двигателей
 
 };
